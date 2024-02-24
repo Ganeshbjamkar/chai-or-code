@@ -36,7 +36,7 @@ export default function Footer() {
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
-                                        href="https://github.com/hiteshchoudhary"
+                                        href="https://github.com/Ganeshbjamkar"
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
@@ -44,11 +44,37 @@ export default function Footer() {
                                         Github
                                     </a>
                                 </li>
-                                <li>
-                                    <Link to="/" className="hover:underline">
-                                        Discord
-                                    </Link>
+                                <li className="mb-4">
+                                    <a
+                                        href="https://www.linkedin.com/in/ganesh-jamkar-32373b1b3/"
+                                        className="hover:underline"
+                                        target="_blank"
+                                        rel="noreferrer"
+                                    >
+                                        LinkedIn
+                                    </a>
                                 </li>
+                                <li className="mb-4">
+                                    <a
+                                        href="https://www.hackerrank.com/profile/ganesh_b_jamkar"
+                                        className="hover:underline"
+                                        target="_blank"
+                                        rel="noreferrer"
+                                    >
+                                        HackerRank
+                                    </a>
+                                </li>
+                                <li className="mb-4">
+                                    <a
+                                        href="https://leetcode.com/Ganeshbjamkar/"
+                                        className="hover:underline"
+                                        target="_blank"
+                                        rel="noreferrer"
+                                    >
+                                        LeetCode
+                                    </a>
+                                </li>
+
                             </ul>
                         </div>
                         <div>
